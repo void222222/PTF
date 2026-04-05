@@ -1,4 +1,3 @@
-﻿# PTF
 # PTF App – Resumo
 
 **PTF App** é um aplicativo desktop multiplataforma que integra inteligência artificial local e web scraping para auxiliar desenvolvedores e profissionais de UX. Construído com **Electron**, **React** e **Python**, o app oferece duas ferramentas principais em uma interface de abas moderna.
